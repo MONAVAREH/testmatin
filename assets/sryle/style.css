@@ -1,0 +1,24 @@
+*{
+    direction: rtl;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.item_menu ul{
+    display: flex;
+}
+.item_menu ul li{
+    padding: 28px;
+}
+.item_menu ul li a{
+    color: black;
+}
+
